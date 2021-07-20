@@ -1,3 +1,4 @@
+[README.md](https://github.com/mr-nomad-gaming/mr-nomad-gaming/files/6847438/README.md)
 ### Hi there, I'm Asif - aka [mr-nomad-gaming][website] 👋
 
 [![Website](https://img.shields.io/website?label=mr-nomad-gaming&style=for-the-badge&url=https://codestackr.com)](https://mrnomadgaming.blogspot.com/)
