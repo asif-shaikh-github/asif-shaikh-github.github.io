@@ -1,7 +1,9 @@
 ### Hi there, I'm Asif - aka [mr-nomad-gaming][linkedin] 👋
 
-[![LinkedIN](https://img.shields.io/badge/Asif%20Shaikh)](https://www.linkedin.com/in/connectasifshaikh/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mr_nomad_gaming?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/mr_nomad_gaming)
+[![LinkedIN](https://img.shields.io/badge/Follow-Asif_Shaikh-brightgreen?style=for-the-badge&logo=linkedin&logoColor=%230A66C2
+)](https://www.linkedin.com/in/connectasifshaikh/)
+[![Twitter Follow](https://img.shields.io/badge/Follow-Mr_Nomad_Gaming-blue?style=for-the-badge&logo=twitter&logoColor=white
+)](https://twitter.com/mr_nomad_gaming)
 
 ## I'm a Student, a Teacher, a Programmer, and a Gamer!!
 
