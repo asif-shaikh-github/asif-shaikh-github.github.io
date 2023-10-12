@@ -1,4 +1,4 @@
-### Hi there, I'm Asif - aka [mr-nomad-gaming][website] 👋
+### Hi there, I'm Asif - aka [mr-nomad-gaming][linkedin] 👋
 
 [![Website](https://img.shields.io/website?label=mr-nomad-gaming&style=for-the-badge&url=https://codestackr.com)](https://www.linkedin.com/in/connectasifshaikh/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mr_nomad_gaming?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/mr_nomad_gaming)
