@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Myself
-- ⚡ Fun fact: I love Travelling & Cycling
+- ⚡ Fun fact: I love Gaming & Cycling
 
 
 ### Connect with me:
