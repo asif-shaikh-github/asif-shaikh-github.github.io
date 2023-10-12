@@ -1,6 +1,6 @@
 ### Hi there, I'm Asif - aka [mr-nomad-gaming][linkedin] 👋
 
-[![Website](https://img.shields.io/website?label=mr-nomad-gaming&style=for-the-badge&url=https://codestackr.com)](https://www.linkedin.com/in/connectasifshaikh/)
+[![LinkedIN](https://img.shields.io/website?label=mr-nomad-gaming&style=for-the-badge&url=https://codestackr.com)](https://www.linkedin.com/in/connectasifshaikh/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mr_nomad_gaming?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/mr_nomad_gaming)
 
 ## I'm a Student, a Teacher, a Programmer, and a Gamer!!
@@ -44,6 +44,6 @@
 
 [website]: https://mrnomadgaming.blogspot.com/
 [twitter]: https://twitter.com/mr_nomad_gaming
-[youtube]: https://www.youtube.com/channel/UC-SrXMdc0o1tsYjUz9CW3vA/featured
+[youtube]: https://www.youtube.com/@mr_nomad
 [instagram]: https://www.instagram.com/mr_nomad_gaming/
-[linkedin]: https://www.linkedin.com/in/shaikhasif120/
+[linkedin]: https://www.linkedin.com/in/connectasifshaikh/
